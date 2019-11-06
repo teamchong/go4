@@ -17,3 +17,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Heroku
+.env
+.docker_build
+bin
+tmp
+*.log
+*.sqlite3
